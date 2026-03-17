@@ -1,10 +1,4 @@
 # AI Cognitive Knowledge Retrieval System
-
-**Version:** 1.0.0  
-**Last Updated:** March 17, 2026  
-**Status:** Production-Ready  
-**Stack:** Next.js 14 · React 18 · Node.js · Express · MongoDB · Firebase Auth · Google Gemini AI
-
 > Your knowledge, organized by AI, accessible forever.
 
 ---
