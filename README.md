@@ -1,4 +1,4 @@
-# 🧠 AI Cognitive Knowledge Retrieval System — AI-Powered Personal Knowledge Management
+# AI Cognitive Knowledge Retrieval System
 
 **Version:** 1.0.0  
 **Last Updated:** March 17, 2026  
