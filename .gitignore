@@ -1,0 +1,37 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node/Next
+**/node_modules/
+client/.next/
+client/out/
+client/.turbo/
+
+# Python
+.venv/
+**/__pycache__/
+**/*.pyc
+.ml_service_cache/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files (keep templates only)
+.env
+.env.local
+.env.*.local
+server/.env
+client/.env.local
+ml_service/.env
+
+# Explicitly keep examples
+!.env.example
+!server/.env.example
+!client/.env.local.example
+!ml_service/.env.example

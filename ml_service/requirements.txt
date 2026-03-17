@@ -1,0 +1,6 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+numpy==2.1.1
+scikit-learn==1.5.2
+transformers==4.45.2
+python-dotenv==1.0.1
